@@ -27,7 +27,7 @@ For this paper, we searched for terms related to the work in the domain of trave
 Replication package
 -------------------
 
-The list of all the papers retrieved from the queries is available for download <a id="raw-url" href="https://raw.githubusercontent.com/github-username/project/master/filename](https://github.com/ricksonsimioni/UMAP2024-On-the-need-for-configurable-travel-recommender-systems-A-systematic-mapping-study/blob/main/On%20the%20need%20for%20configurable%20travel%20recommender%20systems_%20A%20systematic%20mapping%20study.xlsx)https://github.com/ricksonsimioni/UMAP2024-On-the-need-for-configurable-travel-recommender-systems-A-systematic-mapping-study/blob/main/On%20the%20need%20for%20configurable%20travel%20recommender%20systems_%20A%20systematic%20mapping%20study.xlsx">here</a>.
+The list of all the papers retrieved from the queries is available for download <a id="raw-url" href="https://github.com/ricksonsimioni/UMAP2024-On-the-need-for-configurable-travel-recommender-systems-A-systematic-mapping-study/blob/main/On%20the%20need%20for%20configurable%20travel%20recommender%20systems_%20A%20systematic%20mapping%20study.xlsx)https://github.com/ricksonsimioni/UMAP2024-On-the-need-for-configurable-travel-recommender-systems-A-systematic-mapping-study/blob/main/On%20the%20need%20for%20configurable%20travel%20recommender%20systems_%20A%20systematic%20mapping%20study.xlsx">here</a>.
 
 The list of final selected papers is available for download [here](https://duckduckgo.com).
 
