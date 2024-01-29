@@ -1,6 +1,4 @@
-On the need for configurable travel recommender systems: 
-
-A systematic mapping study
+On the need for configurable travel recommender systems:  A systematic mapping study
 =====================================================================================
 
 Introduction
