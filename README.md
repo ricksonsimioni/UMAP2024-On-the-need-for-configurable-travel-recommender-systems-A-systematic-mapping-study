@@ -29,7 +29,7 @@ For this paper, we searched for terms related to the work in the domain of trave
 Replication package
 -------------------
 
-The list of all the papers retrieved from the queries is available for download <a href="https://www.file.io/faqh/download/vn1r1Ei2aYYl" title="Download" download>here</a>. The spreadsheet is divided into three tabs:
+The list of all the papers retrieved from the queries is available for download <a href="https://www.file.io/faqh/download/vn1r1Ei2aYYl" title="Download" download>here</a> and in this repository in the file named _papers_list.xlxs_. The spreadsheet is divided into three tabs:
 
 - All retrieved papers
   > This list contains the raw data retrieval with all the papers fetched using the available queries above.
