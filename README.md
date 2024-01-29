@@ -27,7 +27,7 @@ For this paper, we searched for terms related to the work in the domain of trave
 Replication package
 -------------------
 
-The list of all the papers retrieved from the queries is available for download <a href="papers_list.xlsx" title="Download" download>here</a>.
+The list of all the papers retrieved from the queries is available for download <a href="https://github.com/ricksonsimioni/UMAP2024-On-the-need-for-configurable-travel-recommender-systems-A-systematic-mapping-study/raw/main/papers_list.xlsx" title="Download" download>here</a>.
 
 The list of final selected papers is available for download [here](https://duckduckgo.com).
 
