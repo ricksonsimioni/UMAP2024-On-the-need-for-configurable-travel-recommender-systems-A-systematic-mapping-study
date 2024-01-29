@@ -1,5 +1,4 @@
-On the need for configurable travel recommender systems:  
-A systematic mapping study
+On the need for configurable travel recommender systems: A systematic mapping study
 =====================================================================================
 
 Introduction
@@ -29,14 +28,14 @@ For this paper, we searched for terms related to the work in the domain of trave
 Replication package
 -------------------
 
-The list of all the papers retrieved from the queries is available for download <a href="https://file.io/kkI2B7rqdrIV" title="Download" download>here</a> and in this repository in the file named _papers_list.xlxs_. The spreadsheet is divided into five tabs:
+The list of all the papers retrieved from the queries is available for download <a href="https://file.io/rRERBW1OGPR9" title="Download" download>here</a> and in this repository in the file named _papers_list.xlxs_. The spreadsheet is divided into five tabs:
 
 - Scopus Retrieved papers
-  > This list contains the raw data retrieval with all the papers fetched using the available queries above in Scopus.
+  > This list contains the raw data retrieval with all the papers fetched using the available specific in Scopus.
 - IEEE Retrieved papers
-  > This list contains the raw data retrieval with all the papers fetched using the available queries above in IEEE.
+  > This list contains the raw data retrieval with all the papers fetched using the available specific query in IEEE.
 - DBLP Retrieved papers
-  > This list contains the raw data retrieval with all the papers fetched using the available queries above in DBLP.
+  > This list contains the raw data retrieval with all the papers fetched using the available specific query in DBLP.
 - Retrieved papers without duplicated ones
   > This list contains the works after the removal of duplicated ones across digital libraries.
 - Final selection
