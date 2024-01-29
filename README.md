@@ -29,11 +29,25 @@ For this paper, we searched for terms related to the work in the domain of trave
 Replication package
 -------------------
 
-The list of all the papers retrieved from the queries is available for download <a href="https://file.io/AF1NJid5Z2I7" title="Download" download>here</a> and in this repository in the file named _papers_list.xlxs_. The spreadsheet is divided into three tabs:
+The list of all the papers retrieved from the queries is available for download <a href="https://file.io/kkI2B7rqdrIV" title="Download" download>here</a> and in this repository in the file named _papers_list.xlxs_. The spreadsheet is divided into five tabs:
 
-- All retrieved papers
-  > This list contains the raw data retrieval with all the papers fetched using the available queries above.
+- Scopus Retrieved papers
+  > This list contains the raw data retrieval with all the papers fetched using the available queries above in Scopus.
+- IEEE Retrieved papers
+  > This list contains the raw data retrieval with all the papers fetched using the available queries above in IEEE.
+- DBLP Retrieved papers
+  > This list contains the raw data retrieval with all the papers fetched using the available queries above in DBLP.
 - Retrieved papers without duplicated ones
   > This list contains the works after the removal of duplicated ones across digital libraries.
 - Final selection
-  > This list contains the final works selected based on the inclusion and exclusion criteria explained in the paper.
+  > This list contains the final works selected based on the inclusion and exclusion criteria which can be visualized below:
+    - **Inclusion criteria**
+      1. Papers that propose TRSs with a certain degree of configuration.
+      2. Peer-reviewed papers published in conferences and journals.
+      3. Well-ranked venues/publishers.
+      4. Works published within the last 10 years.
+    - **Exlusion criteria**
+      1. Papers that propose RS for other application domains.
+      2. Papers not written in English.
+      3. Short papers, posters, and tutorials (4-6 pages).
+      4. Out-of-scope papers.
