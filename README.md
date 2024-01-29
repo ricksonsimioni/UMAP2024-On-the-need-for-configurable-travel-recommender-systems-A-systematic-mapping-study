@@ -5,7 +5,7 @@ A systematic mapping study
 Introduction
 ------------
 
-This page provides the replication package for the paper titled "**On the need for configurable travel recommender systems: A systematic mapping study**". The replication package includes all the necessary resources and instructions to reproduce the mapping study presented in the paper. This paper aims to map studies under the travel recommender systems (TRS) field, with a focus on the configurability these systems offer to providers. It assists in identifying relevant works in the literature and analyzes challenges that are worth to be investigated by researchers and practitioners. Eventually, future works directions are proposed, aiming provide more support to TRSs providers.
+This page provides the replication package for the paper titled "**On the need for configurable travel recommender systems: A systematic mapping study**". The replication package includes all the necessary resources and instructions to reproduce the mapping study presented in the paper. This paper aims to map studies under the travel recommender systems (TRS) field, with a focus on the configurability these systems offer to providers. It assists in identifying relevant works in the literature and analyzes challenges that are worth to be investigated by researchers and practitioners. Eventually, future works directions are proposed, aiming to provide more support to TRSs providers.
 
 Research queries
 ----------------
