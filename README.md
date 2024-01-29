@@ -29,7 +29,7 @@ For this paper, we searched for terms related to the work in the domain of trave
 Replication package
 -------------------
 
-The list of all the papers retrieved from the queries is available for download <a href="https://github.com/ricksonsimioni/UMAP2024-On-the-need-for-configurable-travel-recommender-systems-A-systematic-mapping-study/raw/main/papers_list.xlsx" title="Download" download>here</a>. The spreadsheet is divided into three tabs:
+The list of all the papers retrieved from the queries is available for download <a href="https://www.file.io/faqh/download/vn1r1Ei2aYYl" title="Download" download>here</a>. The spreadsheet is divided into three tabs:
 
 - All retrieved papers
   > This list contains the raw data retrieval with all the papers fetched using the available queries above.
@@ -37,6 +37,3 @@ The list of all the papers retrieved from the queries is available for download 
   > This list contains the woks after the removal of duplicated ones across digital libraries.
 - Final selection
   > This list contains the final works selected based in the inclusion and exclusion criteria explained in the paper
-
-The final papers are available for download [here](https://duckduckgo.com).
-
