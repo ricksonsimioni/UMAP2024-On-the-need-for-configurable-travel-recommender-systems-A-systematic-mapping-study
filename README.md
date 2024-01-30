@@ -28,7 +28,7 @@ For this paper, we searched for terms related to the work in the domain of trave
 Replication package
 -------------------
 
-The list of all the papers retrieved from the queries is available for download <a href="https://file.io/uq992d3zMYQI" title="Download" download>here</a> and in this repository in the file named _papers_list.xlxs_. The spreadsheet is divided into five tabs:
+The list of all the papers retrieved from the queries is available for download <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRWkRdxScQJKkOmaO5X05JCfUnNe8Smzw0RmVP9oBqki2GUTANdo0IjQNiCXTY0D4XNmi2JP6vZgDSs/pub?output=xlsx" title="Download" download>here</a> and in this repository in the file named _papers_list.xlxs_. The spreadsheet is divided into five tabs:
 
 - Scopus Retrieved papers
   > This list contains the raw data retrieval with all the papers fetched using the available specific in Scopus.
